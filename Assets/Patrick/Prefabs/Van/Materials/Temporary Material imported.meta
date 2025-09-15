@@ -1,6 +1,10 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Patrick/Prefabs/Van/Materials/Temporary Material imported.meta
 guid: 0edbd3aa6bbe3024ea7d8d67b8627adb
 folderAsset: yes
+========
+guid: f2a91304149626d419ef448854aff5a3
+>>>>>>>> 5fb51d409fd3bcaa6468393e5658faca430a9d7c:Assets/Matthew/VGA203_Matthew_MacPherson_A2.unity.meta
 DefaultImporter:
   externalObjects: {}
   userData: 
