@@ -1337,7 +1337,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: a71fb0a0185082a4eb5e8275dd2c46b3, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -21.32
+      value: -21.291
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: a71fb0a0185082a4eb5e8275dd2c46b3, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1380,13 +1380,21 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 2100000, guid: cd53f18e930fe20489b6773956ad82e9, type: 2}
     - target: {fileID: -7511558181221131132, guid: a71fb0a0185082a4eb5e8275dd2c46b3, type: 3}
+      propertyPath: 'm_Materials.Array.data[2]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68143009cfd341345addabf8c6010806, type: 2}
+    - target: {fileID: -7511558181221131132, guid: a71fb0a0185082a4eb5e8275dd2c46b3, type: 3}
       propertyPath: 'm_Materials.Array.data[3]'
       value: 
       objectReference: {fileID: 2100000, guid: 0388235a7f897274ba24df85e10ffb2d, type: 2}
     - target: {fileID: -7511558181221131132, guid: a71fb0a0185082a4eb5e8275dd2c46b3, type: 3}
       propertyPath: 'm_Materials.Array.data[4]'
       value: 
-      objectReference: {fileID: 2100000, guid: 2a960dffe01da374c8b1eb98536122fe, type: 2}
+      objectReference: {fileID: 2100000, guid: f9b79bc1a1835e34cb7c551be622fa36, type: 2}
+    - target: {fileID: -7511558181221131132, guid: a71fb0a0185082a4eb5e8275dd2c46b3, type: 3}
+      propertyPath: 'm_Materials.Array.data[6]'
+      value: 
+      objectReference: {fileID: 2100000, guid: beaec74b80c6e6143b11c55d25ab4a0d, type: 2}
     - target: {fileID: -7511558181221131132, guid: a71fb0a0185082a4eb5e8275dd2c46b3, type: 3}
       propertyPath: 'm_Materials.Array.data[7]'
       value: 
@@ -1394,7 +1402,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: a71fb0a0185082a4eb5e8275dd2c46b3, type: 3}
       propertyPath: 'm_Materials.Array.data[8]'
       value: 
-      objectReference: {fileID: 2100000, guid: 2a960dffe01da374c8b1eb98536122fe, type: 2}
+      objectReference: {fileID: 2100000, guid: 6efdaffadb771664db1a934aaa312377, type: 2}
     - target: {fileID: 919132149155446097, guid: a71fb0a0185082a4eb5e8275dd2c46b3, type: 3}
       propertyPath: m_Name
       value: Van1_low
