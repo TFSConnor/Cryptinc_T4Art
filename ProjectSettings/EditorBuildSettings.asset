@@ -8,6 +8,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Kianna B/UI Main Menu/UI Main Menu (test).unity
+    guid: 1c660f8694720c941b373423af1a8733
+  - enabled: 1
+    path: Assets/Kianna B/UI Main Menu/After Main Menu/Play Screen.unity
+    guid: d4d716e64c86c0b4e9242ae0498b0a84
+  - enabled: 1
+    path: Assets/Kianna B/UI Main Menu/After Main Menu/Credits.unity
+    guid: f7aff5f9ae4f4cc48909b9f1f86299b4
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
