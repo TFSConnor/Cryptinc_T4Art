@@ -1189,10 +1189,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: -7511558181221131132, guid: 7888bf886eaadc643805362fc3922d06, type: 3}
-      propertyPath: 'm_Materials.Array.data[0]'
-      value: 
-      objectReference: {fileID: 2100000, guid: 01e2a8e729645c745847991b234611cf, type: 2}
     - target: {fileID: 919132149155446097, guid: 7888bf886eaadc643805362fc3922d06, type: 3}
       propertyPath: m_Name
       value: Van_high
@@ -1371,30 +1367,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: -7511558181221131132, guid: a71fb0a0185082a4eb5e8275dd2c46b3, type: 3}
-      propertyPath: 'm_Materials.Array.data[0]'
-      value: 
-      objectReference: {fileID: 2100000, guid: 01e2a8e729645c745847991b234611cf, type: 2}
-    - target: {fileID: -7511558181221131132, guid: a71fb0a0185082a4eb5e8275dd2c46b3, type: 3}
-      propertyPath: 'm_Materials.Array.data[1]'
-      value: 
-      objectReference: {fileID: 2100000, guid: cd53f18e930fe20489b6773956ad82e9, type: 2}
-    - target: {fileID: -7511558181221131132, guid: a71fb0a0185082a4eb5e8275dd2c46b3, type: 3}
-      propertyPath: 'm_Materials.Array.data[3]'
-      value: 
-      objectReference: {fileID: 2100000, guid: 0388235a7f897274ba24df85e10ffb2d, type: 2}
-    - target: {fileID: -7511558181221131132, guid: a71fb0a0185082a4eb5e8275dd2c46b3, type: 3}
-      propertyPath: 'm_Materials.Array.data[4]'
-      value: 
-      objectReference: {fileID: 2100000, guid: 2a960dffe01da374c8b1eb98536122fe, type: 2}
-    - target: {fileID: -7511558181221131132, guid: a71fb0a0185082a4eb5e8275dd2c46b3, type: 3}
-      propertyPath: 'm_Materials.Array.data[7]'
-      value: 
-      objectReference: {fileID: 2100000, guid: caddcb05de92106418a1eeed6f078fff, type: 2}
-    - target: {fileID: -7511558181221131132, guid: a71fb0a0185082a4eb5e8275dd2c46b3, type: 3}
-      propertyPath: 'm_Materials.Array.data[8]'
-      value: 
-      objectReference: {fileID: 2100000, guid: 2a960dffe01da374c8b1eb98536122fe, type: 2}
     - target: {fileID: 919132149155446097, guid: a71fb0a0185082a4eb5e8275dd2c46b3, type: 3}
       propertyPath: m_Name
       value: Van1_low
